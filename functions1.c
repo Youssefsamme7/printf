@@ -97,7 +97,7 @@ int flags, int width, int precision, int size)
 
 /************* PRINT UNSIGNED NUMBER IN UPPER HEXADECIMAL **************/
 /**
- *  * print_hexa_upper - Prints an unsigned number in upper hexadecimal notation
+ * print_hexa_upper - Prints an unsigned number in upper hexadecimal notation
  *   * @types: Lista of arguments
  *    * @buffer: Buffer array to handle print
  *     * @flags:  Calculates active flags
